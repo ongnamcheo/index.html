@@ -1,0 +1,156 @@
+h1 {
+ color: red;
+ font-size: 50px;
+}
+
+<head>
+ <meta charset="UTF-8">
+ <title>thực hành HTML và CSS</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+
+body {
+ font-family: Arial, sans-serif;
+ font-size: 25px;
+ line-height: 1.5;
+ color: #222222;
+ background-color: white;
+ margin: 24px;
+ 
+}
+p {
+ color: #1d4ed8;
+ font-size: 28px;
+ margin-bottom: 16px;
+}
+p {
+ margin: 12px 0;
+}
+
+<p class="thời gian">CON CHIM CUC CU:</p>
+.thời gian{
+ font-weight: bold;
+ margin-top: 20px;
+}
+
+table {
+ width: 100%;
+ border-collapse: collapse;
+ margin: 12px 0;
+}
+th, td {
+ border: 1px solid #999999999;
+ padding: 8px; 
+ test-align: left;
+}
+th {
+ backgruond-color: #aaaaaaaa;
+}
+
+<body class="CAP-ANH">
+.CAP-ANH h1 {
+ color: #9a3412;
+}
+.CAP-ANH button {
+ background-color: #9a3412;
+ border-color: #9a3412;
+}
+.CAP-ANH button:hover {
+ background-color: #7c2d12
+}
+
+button {
+ padding: 8px 16px;
+ border: 1px solid #1d4ed8;
+ backgorund-color: #1d4ed8;
+ color: white;
+ font: inherit;
+ cursor: pointer;
+}
+buttun:hover {
+ background-color: #1e40af;
+}
+input:hover {
+ background-color: #1e40af;
+}
+input:forcus {
+ background-color: #1d4ed8;
+ outline-offset: 2px;
+}
+
+from {
+ max-width: 420px;
+ padding: 16px;
+ border: 1px solid #888888;
+ background-color: #g5g5g5g5g5;
+}
+label {
+ display: block;
+ margin-bottom: 4px;
+}
+input {
+ width: 100%;
+ box-sizing: border-box;
+ padding: 8px;
+ border: 1px solid #9999999;
+ font: inherit;
+}
+
+table {
+ width: 100%;
+ border-collapse: collapse;
+ margin: 12px 0;
+}
+th, td {
+ border: 1px solid #1111111;
+ padding: 8px; 
+ test-align: left;
+}
+th {
+ backgruond-color: #aaaaaaaa;
+}
+
+img {
+ width: 320px;
+ max-width: 100%;
+ height: auto;
+}
+
+h1 {
+ color: red::
+ font-size: 28px;
+}
+
+<head>
+ <meta charset="UTF-8">
+ <title>thực hành HTML và CSS</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+
+body {
+ font-family: Arial, sans-serif;
+ font-size: 16px;
+ line-height: 1.5;
+ color: #5E342B;
+ backgorud-color: white;
+ margin: 24px;
+ 
+}
+p {
+ margin: 12px 0;
+}
+
+<p class="tieu-de-muc">noi dung hoc:</p>
+.tieu-de-muc {
+ font-weight: bold;
+ margin-top: 20px;
+}
+
+ul, ol {
+ padding-left: 28px;
+ margin: 12px 0;
+}
+li {
+ margin-bottom: 6px;
+}
+
